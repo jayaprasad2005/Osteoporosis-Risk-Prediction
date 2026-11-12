@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pyc
+.DS_Store

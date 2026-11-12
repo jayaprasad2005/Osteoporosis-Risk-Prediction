@@ -1,0 +1,8 @@
+{
+    "Logistic Regression": 0.5,
+    "Random Forest": 0.5,
+    "XGBoost": 0.5,
+    "LightGBM": 0.5,
+    "CatBoost": 0.5,
+    "TabNet": 0.35
+}
